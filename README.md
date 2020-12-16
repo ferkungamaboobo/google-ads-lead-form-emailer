@@ -1,4 +1,4 @@
 # google-ads-lead-form-emailer
-Webhook for Google Ads Lead Form Extensions that emails arbitrary users via PHPMailer.
+Webhook for Google Ads Lead Form Extensions that emails arbitrary users using SMTP via PHPMailer.
 
 Requires [PHPMailer](https://github.com/PHPMailer/PHPMailer) to work.
